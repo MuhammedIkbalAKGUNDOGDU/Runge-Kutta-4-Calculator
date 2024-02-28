@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1703445706 source:c:\users\muham\onedrive\documents\code blocks c\diferansiyelodev2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
